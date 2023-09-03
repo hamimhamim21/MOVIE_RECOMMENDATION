@@ -6,6 +6,7 @@
   "scripts": {
     "build": "vite build",
     "start": "vite preview",
+    "server-heroku": "vite preview",
     "postinstall": "npm install -g vite"
   },
   "dependencies": {
