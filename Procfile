@@ -1,1 +1,1 @@
-web: ./node_modules/.bin/vite preview
+web: npm install -g vite && vite preview
