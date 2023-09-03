@@ -1,1 +1,1 @@
-web: npm install -g vite && vite preview
+web: npm start
