@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "vite build",
-    "start": "vite preview",
-    "serve": "vite preview"
+    "start": "vite preview"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
